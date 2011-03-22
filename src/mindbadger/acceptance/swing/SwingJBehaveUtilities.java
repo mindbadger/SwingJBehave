@@ -1,4 +1,4 @@
-package mjf.acceptance.swing;
+package mindbadger.acceptance.swing;
 
 import java.awt.Component;
 import java.awt.Container;

@@ -1,4 +1,4 @@
-package mjf.acceptance.swing.steps;
+package mindbadger.acceptance.swing.steps;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
@@ -7,7 +7,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 
-import mjf.acceptance.swing.SwingJBehaveUtilities;
+import mindbadger.acceptance.swing.SwingJBehaveUtilities;
 
 import org.jbehave.core.annotations.Given;
 import org.jbehave.core.annotations.Then;
